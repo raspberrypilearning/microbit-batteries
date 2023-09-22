@@ -1,59 +1,27 @@
-## Introduction
+## Powering the micro:bit
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+To run your micro:bit project, without having to connect it to you computer, you will need the **battery pack** and **batteries** that came with your micro:bit. 
 
-### What you will make
+### Connect the batteries
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Make sure the program you want to run is on the micro:bit amd has been tested, then disconnect the micro USB cable from the micro:bit.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Place the batteries in the battery pack, make sure to line up the `-` and `+` sides of the batteries with the slots.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+<img src="images/microbit-battery-insert.jpg" alt="The micro:bit battery pack containing two AAA batteries. The batteries are aligned so that the negative ends are placed against the spring contacts of the holder." width="350"/>
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Connect the battery pack to the white connector in the top left corner of the micro:bit. 
 
-+ A computer or tablet capable of running Scratch 3
+<img src="images/battery-port.jpg" alt="The top of the micro:bit the battery connector on the right is highlighted. " width="350"/>
 
-### Software
+There is a line on one side of the battery pack, this will slot into the groove on the battery pack connector. 
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+<img src="images/microbit-battery-connect.jpg" alt="The battery power lead partially connected to the micro:bit. The micro:bit has the connection ports showing, and the lead is orientated so that the central strip is uppermost. " width="350"/>
 
-### Downloads
+The micro:bit should power up, and run the program you placed on it.
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+You can reset the micro:bit by clicking the button next to the battery pack connector on the back on the micro:bit. 
 
---- /collapse ---
+<img src="images/reset-button.jpg" alt="The back of a micro:bit with the reset button next to the USB connector highlighted." width="350"/>
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Make sure to disconnect the battery pack before you plug your micro:bit back in to your computer.**
