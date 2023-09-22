@@ -1,5 +1,3 @@
-## Powering the micro:bit
-
 To run your micro:bit project, without having to connect it to you computer, you will need the **battery pack** and **batteries** that came with your micro:bit. 
 
 ### Connect the batteries
