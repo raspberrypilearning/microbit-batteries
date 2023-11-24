@@ -1,25 +1,25 @@
-To run your micro:bit without it being connected to you computer, you will need the **battery pack** and **batteries** that came with your micro:bit.
+Om de micro:bit te laten werken zonder dat deze aangesloten is op je computer, heb je het **batterijpakket** en **batterijen** nodig dat bij je micro:bit werd geleverd.
 
-### Connect the batteries
+### De batterijen aansluiten
 
-Make sure that the program you want to run is on the micro:bit and has been tested, then disconnect the micro USB cable from the micro:bit.
+Zorg ervoor dat het programma dat je wilt uitvoeren op de micro:bit staat en is getest, en koppel vervolgens de micro-USB-kabel los van de micro:bit.
 
-Place the batteries in the battery pack. Make sure you line up the `-` and `+` sides of the batteries correctly.
+Plaats de batterijen in het batterijpakket. Zorg ervoor dat je de `-` en `+` kanten van de batterijen correct plaatst.
 
 <img src="images/microbit-battery-insert.jpg" alt="The micro:bit battery pack containing two AAA batteries. The batteries are aligned so that the negative ends are placed against the spring contacts of the holder." width="350"/>
 
-Connect the battery pack to the white connector in the top left corner of the micro:bit.
+Sluit het batterijpakket aan op de witte connector in de linker bovenhoek van de micro:bit.
 
 <img src="images/battery-port.jpg" alt="The top of the micro:bit the battery connector on the right is highlighted. " width="350"/>
 
-There is a ridge on one side of the battery pack connector that will slot into the groove on the micro:bit connector.
+Aan één kant van de batterijconnector bevindt zich een rand die in de groef op de micro:bit-connector past.
 
 <img src="images/microbit-battery-connect.jpg" alt="The battery power lead partially connected to the micro:bit. The micro:bit has the connection ports showing, and the lead is orientated so that the central strip is uppermost. " width="350"/>
 
-The micro:bit should power up, and run the program you downloaded to it.
+De micro:bit moet opstarten en het programma uitvoeren dat je hebt gedownload.
 
-You can reset the micro:bit by clicking the button next to the battery pack connector on the back of the micro:bit.
+Je kunt de micro:bit resetten door op de knop naast de aansluiting van het batterijpakket te klikken op de achterkant van de micro:bit.
 
 <img src="images/reset-button.jpg" alt="The back of a micro:bit with the reset button next to the USB connector highlighted." width="350"/>
 
-**Make sure to disconnect the battery pack before you plug your micro:bit back in to your computer.**
+**Zorg ervoor dat je het batterijpakket loskoppelt voordat je je micro:bit weer aansluit op je computer.**
