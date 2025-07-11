@@ -1,25 +1,25 @@
-To run your micro:bit without it being connected to you computer, you will need the **battery pack** and **batteries** that came with your micro:bit.
+Pour faire fonctionner ton micro:bit sans qu'il soit connecté à ton ordinateur, tu auras besoin du **boîtier de piles** et des **piles** fournis avec ton micro:bit.
 
-### Connect the batteries
+### Connecter les piles
 
-Make sure that the program you want to run is on the micro:bit and has been tested, then disconnect the micro USB cable from the micro:bit.
+Assure-toi que le programme que tu veux exécuter est sur le micro:bit et a été testé, déconnecte ensuite le câble micro USB du micro:bit.
 
-Place the batteries in the battery pack. Make sure you line up the `-` and `+` sides of the batteries correctly.
+Place les piles dans le boîtier de piles. Assure-toi d'aligner correctement les côtés `-` et `+` des piles.
 
 <img src="images/microbit-battery-insert.jpg" alt="The micro:bit battery pack containing two AAA batteries. The batteries are aligned so that the negative ends are placed against the spring contacts of the holder." width="350"/>
 
-Connect the battery pack to the white connector in the top left corner of the micro:bit.
+Connecte le boîtier de piles au connecteur blanc dans le coin supérieur gauche du micro:bit.
 
 <img src="images/battery-port.jpg" alt="The top of the micro:bit the battery connector on the right is highlighted. " width="350"/>
 
-There is a ridge on one side of the battery pack connector that will slot into the groove on the micro:bit connector.
+Il y a une crête sur un côté du connecteur du boîtier de piles qui va se positionner dans la rainure du connecteur micro:bit.
 
 <img src="images/microbit-battery-connect.jpg" alt="The battery power lead partially connected to the micro:bit. The micro:bit has the connection ports showing, and the lead is orientated so that the central strip is uppermost. " width="350"/>
 
-The micro:bit should power up, and run the program you downloaded to it.
+Le micro:bit devrait s'allumer et exécuter le programme que tu as téléchargé.
 
-You can reset the micro:bit by clicking the button next to the battery pack connector on the back of the micro:bit.
+Tu peux réinitialiser le micro:bit en cliquant sur le bouton à côté du connecteur du boîtier de piles à l'arrière du micro:bit.
 
 <img src="images/reset-button.jpg" alt="The back of a micro:bit with the reset button next to the USB connector highlighted." width="350"/>
 
-**Make sure to disconnect the battery pack before you plug your micro:bit back in to your computer.**
+**Assure-toi de déconnecter le boîtier de piles avant de rebrancher ton micro:bit à ton ordinateur.**
