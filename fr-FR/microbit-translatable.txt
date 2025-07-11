@@ -1,7 +1,7 @@
-Le pack de piles micro:bit contenant deux piles AAA. Les piles sont alignées de sorte que les extrémités négatives sont placées contre les contacts de ressort du support.
+Le boîtier de piles micro:bit contenant deux piles AAA. Les piles sont alignées de sorte que les extrémités négatives sont placées contre les contacts de ressort du support.
 
 Le haut du micro:bit, le connecteur de batterie à droite est mis en évidence.
 
-Le câble d'alimentation de la batterie est partiellement connecté au micro:bit. The micro:bit has the connection ports showing, and the lead is orientated so that the central strip is uppermost.
+Le câble d'alimentation de la batterie est partiellement connecté au micro:bit. Le micro:bit présente les ports de connexion visibles et le câble est orienté de manière à ce que la bande centrale soit la plus haute.
 
-The back of a micro:bit with the reset button next to the USB connector highlighted.
+L'arrière d'un micro:bit avec le bouton de réinitialisation à côté du connecteur USB mis en évidence.
